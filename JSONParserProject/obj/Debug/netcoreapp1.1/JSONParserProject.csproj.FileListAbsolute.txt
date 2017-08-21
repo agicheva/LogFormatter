@@ -7,3 +7,12 @@ c:\users\i342648\documents\visual studio 2017\Projects\JSONParserProject\JSONPar
 c:\users\i342648\documents\visual studio 2017\Projects\JSONParserProject\JSONParserProject\obj\Debug\netcoreapp1.1\JSONParserProject.AssemblyInfo.cs
 c:\users\i342648\documents\visual studio 2017\Projects\JSONParserProject\JSONParserProject\obj\Debug\netcoreapp1.1\JSONParserProject.dll
 c:\users\i342648\documents\visual studio 2017\Projects\JSONParserProject\JSONParserProject\obj\Debug\netcoreapp1.1\JSONParserProject.pdb
+C:\Users\i342648\Documents\github\LogFormatter\JSONParserProject\bin\Debug\netcoreapp1.1\JSONParserProject.deps.json
+C:\Users\i342648\Documents\github\LogFormatter\JSONParserProject\bin\Debug\netcoreapp1.1\JSONParserProject.runtimeconfig.json
+C:\Users\i342648\Documents\github\LogFormatter\JSONParserProject\bin\Debug\netcoreapp1.1\JSONParserProject.runtimeconfig.dev.json
+C:\Users\i342648\Documents\github\LogFormatter\JSONParserProject\bin\Debug\netcoreapp1.1\JSONParserProject.dll
+C:\Users\i342648\Documents\github\LogFormatter\JSONParserProject\bin\Debug\netcoreapp1.1\JSONParserProject.pdb
+C:\Users\i342648\Documents\github\LogFormatter\JSONParserProject\obj\Debug\netcoreapp1.1\JSONParserProject.csprojResolveAssemblyReference.cache
+C:\Users\i342648\Documents\github\LogFormatter\JSONParserProject\obj\Debug\netcoreapp1.1\JSONParserProject.AssemblyInfo.cs
+C:\Users\i342648\Documents\github\LogFormatter\JSONParserProject\obj\Debug\netcoreapp1.1\JSONParserProject.dll
+C:\Users\i342648\Documents\github\LogFormatter\JSONParserProject\obj\Debug\netcoreapp1.1\JSONParserProject.pdb

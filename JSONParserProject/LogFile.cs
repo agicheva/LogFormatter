@@ -11,26 +11,27 @@ namespace JSONParserProject
         //Contains the path to the .log file.
         private string _path;
         private string _fileContents;
+        private string[] _rowsInLog;
+        #endregion
+
+        #region Public properties
+        public string[] RowsInLog { get => _rowsInLog; set => _rowsInLog = value; }
         #endregion
 
         #region Constructor
         public LogFile(string path)
         {
-            this.Path = path;
+            this._path = path;
             try
             {
                 ReadLogFile();
+                ListRowsFromLog();
             }
             catch (Exception)
             {
                 throw new ArgumentException("Please provide valid log file path.");
             }
         }
-        #endregion
-
-        #region Public properties
-        public string Path { get => _path; set => _path = value; }
-        public string FileContents { get => _fileContents; set => _fileContents = value; }
         #endregion
 
         #region Helper methods
@@ -40,8 +41,16 @@ namespace JSONParserProject
         /// <returns></returns>
         private void ReadLogFile()
         {
-            this.FileContents = File.ReadAllText(this.Path);
-        } 
+            this._fileContents = File.ReadAllText(this._path);
+        }
+
+        /// <summary>
+        /// Lists the content of the file in array.
+        /// </summary>
+        private void ListRowsFromLog()
+        {
+            this.RowsInLog = this._fileContents.Split(new string[] { "\r\n", "\n" }, StringSplitOptions.None);
+        }
         #endregion
     }
 }

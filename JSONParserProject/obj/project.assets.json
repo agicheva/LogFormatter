@@ -7346,10 +7346,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\i342648\\Documents\\Visual Studio 2017\\Projects\\JSONParserProject\\JSONParserProject\\JSONParserProject.csproj",
+      "projectUniqueName": "C:\\Users\\i342648\\Documents\\github\\LogFormatter\\JSONParserProject\\JSONParserProject.csproj",
       "projectName": "JSONParserProject",
-      "projectPath": "C:\\Users\\i342648\\Documents\\Visual Studio 2017\\Projects\\JSONParserProject\\JSONParserProject\\JSONParserProject.csproj",
-      "outputPath": "C:\\Users\\i342648\\Documents\\Visual Studio 2017\\Projects\\JSONParserProject\\JSONParserProject\\obj\\",
+      "projectPath": "C:\\Users\\i342648\\Documents\\github\\LogFormatter\\JSONParserProject\\JSONParserProject.csproj",
+      "outputPath": "C:\\Users\\i342648\\Documents\\github\\LogFormatter\\JSONParserProject\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
