@@ -1,0 +1,9 @@
+c:\users\i342648\documents\visual studio 2017\Projects\JSONParserProject\JSONParserProject\bin\Debug\netcoreapp1.1\JSONParserProject.deps.json
+c:\users\i342648\documents\visual studio 2017\Projects\JSONParserProject\JSONParserProject\bin\Debug\netcoreapp1.1\JSONParserProject.runtimeconfig.json
+c:\users\i342648\documents\visual studio 2017\Projects\JSONParserProject\JSONParserProject\bin\Debug\netcoreapp1.1\JSONParserProject.runtimeconfig.dev.json
+c:\users\i342648\documents\visual studio 2017\Projects\JSONParserProject\JSONParserProject\bin\Debug\netcoreapp1.1\JSONParserProject.dll
+c:\users\i342648\documents\visual studio 2017\Projects\JSONParserProject\JSONParserProject\bin\Debug\netcoreapp1.1\JSONParserProject.pdb
+c:\users\i342648\documents\visual studio 2017\Projects\JSONParserProject\JSONParserProject\obj\Debug\netcoreapp1.1\JSONParserProject.csprojResolveAssemblyReference.cache
+c:\users\i342648\documents\visual studio 2017\Projects\JSONParserProject\JSONParserProject\obj\Debug\netcoreapp1.1\JSONParserProject.AssemblyInfo.cs
+c:\users\i342648\documents\visual studio 2017\Projects\JSONParserProject\JSONParserProject\obj\Debug\netcoreapp1.1\JSONParserProject.dll
+c:\users\i342648\documents\visual studio 2017\Projects\JSONParserProject\JSONParserProject\obj\Debug\netcoreapp1.1\JSONParserProject.pdb
